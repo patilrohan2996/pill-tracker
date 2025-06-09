@@ -1,4 +1,5 @@
 # 💊 Tablet Tracker App
+https://pill-tracker.streamlit.app/
 
 This Streamlit-based app helps you manage and monitor your daily medication schedule, track stock levels, and plan reorders intelligently based on consumption rates.
 
@@ -19,20 +20,7 @@ This Streamlit-based app helps you manage and monitor your daily medication sche
 
 ## 🚀 Deployment on Streamlit Cloud
 
-1. **Push this repo to GitHub**  
-   Make sure `main.py` is in the root directory.
-
-2. **Create a new app on [Streamlit Cloud](https://streamlit.io/cloud)**  
-   Link it to your GitHub repository.
-
-3. **Set up required packages**  
-   Include a `requirements.txt` file with:
-   ```text
-   streamlit
-   pandas
-
-## Launch and use!
-The app will automatically create the tablet_data.db in the deployed environment.
+https://pill-tracker.streamlit.app/ 
 
 ## 📝 Usage Notes
   - The app calculates remaining days dynamically based on your last update and daily consumption.
